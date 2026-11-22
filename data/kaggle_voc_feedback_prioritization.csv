@@ -1,0 +1,9 @@
+feature_id,feature_name,feedback_theme,verbatim_mentions_count,sentiment_score,reach_users,impact_score,confidence_pct,effort_person_months,rice_score,kano_category,revenue_arr_usd
+FEAT-101,SCIM / Okta Enterprise SSO Directory Sync,Enterprise Security,340,-0.72,25000,3.0,0.90,2.0,33750,Must-Be,4200000
+FEAT-102,Automated Recurring Invoicing & Credit Card Retries,Billing & Finance,280,-0.65,18000,3.0,0.95,1.5,34200,Performance,3150000
+FEAT-103,Export Raw Telemetry to Snowflake / BigQuery Sink,Data Analytics,190,-0.40,12000,2.0,0.80,2.5,7680,Performance,2800000
+FEAT-104,Custom Webhook Retries & Dead Letter Queue,Developer Experience,215,-0.55,14000,2.0,0.85,1.0,23800,Must-Be,1950000
+FEAT-105,AI Semantic Search & Copilot Query Assistant,Productivity AI,420,+0.35,35000,2.0,0.70,3.0,16333,Delighter,2400000
+FEAT-106,Native Dark Mode & High-Contrast Theme,UI / UX,510,+0.10,50000,1.0,0.90,0.5,90000,Delighter,650000
+FEAT-107,Audit Logs Export with SIEM Syslog Forwarder,Enterprise Security,160,-0.50,9000,2.0,0.85,1.5,10200,Must-Be,2100000
+FEAT-108,Multi-Currency Payment Processing (EUR GBP JPY),Billing & Finance,230,-0.60,16000,2.5,0.80,2.0,16000,Performance,2600000
